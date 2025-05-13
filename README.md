@@ -39,8 +39,8 @@ Alternatively, you can enter the key via the Streamlit UI on first launch.
 streamlit run AgnoFinanceAgent.py
 ```
 ## 📌 Notes
-Data fetched live via Yahoo Finance APIs
-Uses AGNO's YFinanceTools for stock fundamentals, market data, and news
-API key is securely managed via environment variables and Streamlit session state
+- Data fetched live via Yahoo Finance APIs
+- Uses AGNO's YFinanceTools for stock fundamentals, market data, and news
+- API key is securely managed via environment variables and Streamlit session state
 
 

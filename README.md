@@ -23,7 +23,7 @@ An AI-powered financial analysis tool built with Streamlit, Google Gemini via th
 
 ## 📦 Installation
 ```
-git clone https://github.com/yourusername/Agno-Finance-Agent.git
+git clone https://github.com/P-RajaRamesh/Agno-Finance-Agent.git
 cd Agno-Finance-Agent
 pip install -r requirements.txt
 ```

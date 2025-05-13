@@ -36,7 +36,7 @@ Alternatively, you can enter the key via the Streamlit UI on first launch.
 
 ## ▶️ Run the App
 ```
-streamlit run app.py
+streamlit run AgnoFinanceAgent.py
 ```
 ## 📌 Notes
 Data fetched live via Yahoo Finance APIs
